@@ -1,0 +1,7 @@
+{
+  "name": "Travel App",
+  "description": "A comprehensive travel booking and trip planning platform for flights, hotels, and destinations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
